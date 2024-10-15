@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Typescript**
 
-💬 Ask me about **Node.js, React, Javascript or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Javascript and more about Mern Stack development**. 
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
